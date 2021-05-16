@@ -65,7 +65,7 @@ Complete the [Full Stack Open](https://fullstackopen.com/en/) free online Fullst
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Part 0 - Fundamentals of Web apps                                                                                                                                     |Complete    |              |
-| Part 1 - Introduction to React                                                                                                                                        |In Progress |              |
+| Part 1 - Introduction to React                                                                                                                                        |In Progress (1.12) |              |
 | Part 2 - Communicating with server                                                                                                                                    |            |              |
 | Part 3 - Programming a server with NodeJS and Express                                                                                                                 |            |              |
 | Part 4 - Testing Express servers, user administration                                                                                                                 |            |              |

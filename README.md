@@ -62,22 +62,22 @@ Both tiers and specializations will require 'Tier Programming Projects', you are
 
 Complete the [Full Stack Open](https://fullstackopen.com/en/) free online Fullstack Bootcamp.
 
-| Courses                                                                                                                                                               |       Status       |   Evidence   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------: | :----------: |
-| Part 0 - Fundamentals of Web apps                                                                                                                                     |      Complete      |              |
-| Part 1 - Introduction to React                                                                                                                                        | In Progress (1.12) |              |
-| Part 2 - Communicating with server                                                                                                                                    |                    |              |
-| Part 3 - Programming a server with NodeJS and Express                                                                                                                 |                    |              |
-| Part 4 - Testing Express servers, user administration                                                                                                                 |                    |              |
-| Part 5 - Testing React apps                                                                                                                                           |                    |              |
-| Part 6 - State management with Redux                                                                                                                                  |                    |              |
-| Part 7 - React router, custom hooks, styling app with CSS and webpack                                                                                                 |                    |              |
-| Part 8 - GraphQL                                                                                                                                                      |                    |              |
-| Part 9 - TypeScript                                                                                                                                                   |                    |              |
-| Part 10 - React Native                                                                                                                                                |                    |              |
-| Part 11 - CI/CD                                                                                                                                                       |                    |              |
-| **Capstone**                                                                                                                                                          |     **Status**     | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |                    |
+| Courses                                                                                                                                                               |   Status    |       Evidence        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: | :-------------------: |
+| Part 0 - Fundamentals of Web apps                                                                                                                                     |  Complete   |                       |
+| Part 1 - Introduction to React                                                                                                                                        |  Complete   | See part 1 in `fso21` |
+| Part 2 - Communicating with server                                                                                                                                    | In Progress |                       |
+| Part 3 - Programming a server with NodeJS and Express                                                                                                                 |             |                       |
+| Part 4 - Testing Express servers, user administration                                                                                                                 |             |                       |
+| Part 5 - Testing React apps                                                                                                                                           |             |                       |
+| Part 6 - State management with Redux                                                                                                                                  |             |                       |
+| Part 7 - React router, custom hooks, styling app with CSS and webpack                                                                                                 |             |                       |
+| Part 8 - GraphQL                                                                                                                                                      |             |                       |
+| Part 9 - TypeScript                                                                                                                                                   |             |                       |
+| Part 10 - React Native                                                                                                                                                |             |                       |
+| Part 11 - CI/CD                                                                                                                                                       |             |                       |
+| **Capstone**                                                                                                                                                          | **Status**  |     **Evidence**      |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |             |
 
 ### Tier 1 - Getting Started
 

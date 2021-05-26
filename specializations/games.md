@@ -11,22 +11,27 @@ Pick your targeted platform, programming language, and related framework and com
 
 You may elect to complete this specialization more than once by selecting it as your capstone for multiple tiers.
 
-| **Practice**                                                                                                                                                                      | **Status** | **Evidence** |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)                               |            |
-| Study all docs for your chosen platform and its ecosystem                                                                                                                         |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current                  |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Tier Programming Project                                                                                                                                                          |            |
-| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                              |            |
-| **Capstone**                                                                                                                                                                      | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.   |            |
+| **Practice**                                                                                                                                                                           | **Status** | **Evidence** |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
+| [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)                                                                           |            |
+| Study all docs for your chosen platform and its ecosystem                                                                                                                              |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Identify blogs and Twitter users to follow to stay up to date on your chosen platform and its ecosystem and begin 'reading up' on a weekly basis to stay current                       |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Participate in the community surrounding your chosen platform and its ecosystem - begin regularly interacting on twitter and other's blogs, and posting relevant content yourself      |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                                   |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Tier Programming Project                                                                                                                                                               |            |
+| Complete [an Itch.io Game Jam](https://itch.io/jams)                                                                                                                                   |            |
+| **Capstone**                                                                                                                                                                           | **Status** | **Evidence** |
+| Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.        |            |
+| **Courses**                                                                                                                                                                            | **Status** | **Evidence** |
+| Complete these in ore                                                                                                                                                                  |
+| MIT OCW CMS.301 [Introduction to Game Design Methods](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-301-introduction-to-game-design-methods-spring-2016/index.htm) |            |
+| MIT OCW CMS.608 [Game Design](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-608-game-design-spring-2014/index.htm)                                                 |            |
+| MIT OCW CMS.611J [Creating Video Games](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/index.htm)                               |            |

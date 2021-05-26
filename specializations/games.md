@@ -31,7 +31,7 @@ You may elect to complete this specialization more than once by selecting it as 
 | **Capstone**                                                                                                                                                                           | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc.        |            |
 | **Courses**                                                                                                                                                                            | **Status** | **Evidence** |
-| Complete these in ore                                                                                                                                                                  |
+| Complete these in order either all at once, or once per completion of this specialization                                                                                                                                                                  |
 | MIT OCW CMS.301 [Introduction to Game Design Methods](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-301-introduction-to-game-design-methods-spring-2016/index.htm) |            |
 | MIT OCW CMS.608 [Game Design](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-608-game-design-spring-2014/index.htm)                                                 |            |
 | MIT OCW CMS.611J [Creating Video Games](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/index.htm)                               |            |
